@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/rootdevansh/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2974-minimum-number-game](https://github.com/rootdevansh/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
