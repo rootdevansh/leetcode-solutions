@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rootdevansh/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rootdevansh/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2239-find-closest-number-to-zero](https://github.com/rootdevansh/leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1763-longest-nice-substring](https://github.com/rootdevansh/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2974-minimum-number-game](https://github.com/rootdevansh/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
