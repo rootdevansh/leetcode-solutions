@@ -5,8 +5,8 @@ public:
         if(n<0)return 0;
        if(n==0)return 1;
         if(mp.find(n)!=mp.end())return mp[n];
-       int onestep=climbStairs(n-1);
-       int twostep=climbStairs(n-2);
+       int onestep=solve(n-1);
+       int twostep=solve(n-2);
 
         return mp[n]=onestep+twostep;
     }
