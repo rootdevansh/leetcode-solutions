@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rootdevansh/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0209-minimum-size-subarray-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1110-delete-nodes-and-return-forest](https://github.com/rootdevansh/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rootdevansh/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2090-k-radius-subarray-averages](https://github.com/rootdevansh/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rootdevansh/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1110-delete-nodes-and-return-forest](https://github.com/rootdevansh/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1763-longest-nice-substring](https://github.com/rootdevansh/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 | [2418-sort-the-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -75,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/rootdevansh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/rootdevansh/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/rootdevansh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/rootdevansh/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/rootdevansh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/rootdevansh/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Math
 |  |
 | ------- |
