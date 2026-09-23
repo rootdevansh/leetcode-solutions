@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rootdevansh/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0113-path-sum-ii](https://github.com/rootdevansh/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/rootdevansh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/rootdevansh/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/rootdevansh/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/rootdevansh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/rootdevansh/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rootdevansh/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0113-path-sum-ii](https://github.com/rootdevansh/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/rootdevansh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/rootdevansh/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/rootdevansh/leetcode-solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
