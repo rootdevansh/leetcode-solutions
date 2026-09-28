@@ -14,6 +14,7 @@ public:
     void solve(TreeNode* root,string &st){
         if(root==NULL){
             st+="0";
+            
             return;
         }
         st+=to_string(root->val);
