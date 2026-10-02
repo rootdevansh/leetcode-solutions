@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rootdevansh/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rootdevansh/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rootdevansh/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rootdevansh/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/rootdevansh/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rootdevansh/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/rootdevansh/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rootdevansh/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
