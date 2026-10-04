@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/rootdevansh/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1672-richest-customer-wealth](https://github.com/rootdevansh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rootdevansh/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2090-k-radius-subarray-averages](https://github.com/rootdevansh/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rootdevansh/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rootdevansh/leetcode-solutions/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/rootdevansh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
