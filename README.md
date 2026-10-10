@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rootdevansh/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rootdevansh/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0264-ugly-number-ii](https://github.com/rootdevansh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0652-find-duplicate-subtrees](https://github.com/rootdevansh/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/rootdevansh/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/rootdevansh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [2974-minimum-number-game](https://github.com/rootdevansh/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/rootdevansh/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rootdevansh/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/rootdevansh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/rootdevansh/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rootdevansh/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rootdevansh/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/rootdevansh/leetcode-solutions/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/rootdevansh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/rootdevansh/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
