@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/rootdevansh/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rootdevansh/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rootdevansh/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1763-longest-nice-substring](https://github.com/rootdevansh/leetcode-solutions/tree/master/1763-longest-nice-substring) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/rootdevansh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rootdevansh/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0509-fibonacci-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/rootdevansh/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rootdevansh/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/rootdevansh/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/rootdevansh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/rootdevansh/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
