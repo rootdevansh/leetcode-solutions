@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rootdevansh/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1110-delete-nodes-and-return-forest](https://github.com/rootdevansh/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rootdevansh/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rootdevansh/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/rootdevansh/leetcode-solutions/tree/master/0055-jump-game) |
+| [0881-boats-to-save-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 ## Bracket Sequences
 |  |
@@ -269,5 +272,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
