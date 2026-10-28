@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rootdevansh/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0991-broken-calculator](https://github.com/rootdevansh/leetcode-solutions/tree/master/0991-broken-calculator) |
+| [1323-maximum-69-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/rootdevansh/leetcode-solutions/tree/master/0991-broken-calculator) |
+| [1323-maximum-69-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/rootdevansh/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rootdevansh/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rootdevansh/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
