@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rootdevansh/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/rootdevansh/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2239-find-closest-number-to-zero](https://github.com/rootdevansh/leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rootdevansh/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1763-longest-nice-substring](https://github.com/rootdevansh/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rootdevansh/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2418-sort-the-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rootdevansh/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rootdevansh/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/rootdevansh/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Bracket Sequences
 |  |
@@ -302,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rootdevansh/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 <!---LeetCode Topics End-->
