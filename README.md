@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/rootdevansh/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rootdevansh/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1672-richest-customer-wealth](https://github.com/rootdevansh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1833-maximum-ice-cream-bars](https://github.com/rootdevansh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rootdevansh/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2090-k-radius-subarray-averages](https://github.com/rootdevansh/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rootdevansh/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rootdevansh/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/rootdevansh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/rootdevansh/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/rootdevansh/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rootdevansh/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/rootdevansh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rootdevansh/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/rootdevansh/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rootdevansh/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/rootdevansh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
