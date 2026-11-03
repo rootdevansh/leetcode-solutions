@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/rootdevansh/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0709-to-lower-case](https://github.com/rootdevansh/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/rootdevansh/leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1021-remove-outermost-parentheses](https://github.com/rootdevansh/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/rootdevansh/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rootdevansh/leetcode-solutions/tree/master/0134-gas-station) |
+| [0649-dota2-senate](https://github.com/rootdevansh/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0881-boats-to-save-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/rootdevansh/leetcode-solutions/tree/master/0991-broken-calculator) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/rootdevansh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/rootdevansh/leetcode-solutions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
