@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/rootdevansh/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/rootdevansh/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rootdevansh/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1763-longest-nice-substring](https://github.com/rootdevansh/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rootdevansh/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/rootdevansh/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rootdevansh/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rootdevansh/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rootdevansh/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1763-longest-nice-substring](https://github.com/rootdevansh/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rootdevansh/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rootdevansh/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rootdevansh/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rootdevansh/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/rootdevansh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/rootdevansh/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/rootdevansh/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rootdevansh/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rootdevansh/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/rootdevansh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rootdevansh/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/rootdevansh/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
