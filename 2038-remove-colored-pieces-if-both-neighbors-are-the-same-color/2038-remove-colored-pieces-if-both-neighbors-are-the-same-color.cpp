@@ -1,0 +1,20 @@
+class Solution {
+public:
+    bool winnerOfGame(string colors) {
+        bool btn=true;
+        int alice=0;
+        int bob=0;
+        for(int i=1;i<colors.size()-1;i++){
+            if(colors[i]=='A'){
+                if(colors[i-1]=='A'&&colors[i+1]=='A'){
+                    alice++;
+                }
+                }else{
+                    if(colors[i-1]=='B'&&colors[i+1]=='B'){
+                    bob++;
+                    }
+                }
+        }
+      return alice>bob;
+    }
+};
