@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rootdevansh/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/rootdevansh/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rootdevansh/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rootdevansh/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1672-richest-customer-wealth](https://github.com/rootdevansh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/rootdevansh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rootdevansh/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rootdevansh/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rootdevansh/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/rootdevansh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rootdevansh/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0991-broken-calculator](https://github.com/rootdevansh/leetcode-solutions/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rootdevansh/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/rootdevansh/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Dynamic Programming
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/rootdevansh/leetcode-solutions/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/rootdevansh/leetcode-solutions/tree/master/1328-break-a-palindrome) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rootdevansh/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rootdevansh/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rootdevansh/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/rootdevansh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -340,5 +344,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rootdevansh/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/rootdevansh/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
