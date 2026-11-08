@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rootdevansh/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rootdevansh/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0264-ugly-number-ii](https://github.com/rootdevansh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/rootdevansh/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0652-find-duplicate-subtrees](https://github.com/rootdevansh/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/rootdevansh/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/rootdevansh/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0649-dota2-senate](https://github.com/rootdevansh/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0709-to-lower-case](https://github.com/rootdevansh/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/rootdevansh/leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rootdevansh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0433-minimum-genetic-mutation](https://github.com/rootdevansh/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0623-add-one-row-to-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rootdevansh/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rootdevansh/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/rootdevansh/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/rootdevansh/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
