@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/rootdevansh/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0433-minimum-genetic-mutation](https://github.com/rootdevansh/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0649-dota2-senate](https://github.com/rootdevansh/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0709-to-lower-case](https://github.com/rootdevansh/leetcode-solutions/tree/master/0709-to-lower-case) |
