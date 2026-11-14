@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rootdevansh/leetcode-solutions/tree/master/0258-add-digits) |
 | [2974-minimum-number-game](https://github.com/rootdevansh/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Tree
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rootdevansh/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rootdevansh/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/rootdevansh/leetcode-solutions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/rootdevansh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/rootdevansh/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rootdevansh/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -383,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rootdevansh/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
