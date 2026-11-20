@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/rootdevansh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1110-delete-nodes-and-return-forest](https://github.com/rootdevansh/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rootdevansh/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rootdevansh/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rootdevansh/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rootdevansh/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0991-broken-calculator](https://github.com/rootdevansh/leetcode-solutions/tree/master/0991-broken-calculator) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rootdevansh/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rootdevansh/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/rootdevansh/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/rootdevansh/leetcode-solutions/tree/master/0991-broken-calculator) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rootdevansh/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/rootdevansh/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rootdevansh/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
