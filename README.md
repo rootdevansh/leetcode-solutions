@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rootdevansh/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/rootdevansh/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/rootdevansh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/rootdevansh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rootdevansh/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rootdevansh/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/rootdevansh/leetcode-solutions/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/rootdevansh/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/rootdevansh/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0881-boats-to-save-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
