@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/rootdevansh/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rootdevansh/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0652-find-duplicate-subtrees](https://github.com/rootdevansh/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
+| [0763-partition-labels](https://github.com/rootdevansh/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0888-fair-candy-swap](https://github.com/rootdevansh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rootdevansh/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1110-delete-nodes-and-return-forest](https://github.com/rootdevansh/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/rootdevansh/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0649-dota2-senate](https://github.com/rootdevansh/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0709-to-lower-case](https://github.com/rootdevansh/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/rootdevansh/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/rootdevansh/leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1021-remove-outermost-parentheses](https://github.com/rootdevansh/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/rootdevansh/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/rootdevansh/leetcode-solutions/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/rootdevansh/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/rootdevansh/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0763-partition-labels](https://github.com/rootdevansh/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/rootdevansh/leetcode-solutions/tree/master/0991-broken-calculator) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/rootdevansh/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/0202-happy-number) |
+| [0763-partition-labels](https://github.com/rootdevansh/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rootdevansh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/rootdevansh/leetcode-solutions/tree/master/0948-bag-of-tokens) |
