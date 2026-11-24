@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/rootdevansh/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rootdevansh/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2974-minimum-number-game](https://github.com/rootdevansh/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3074-apple-redistribution-into-boxes](https://github.com/rootdevansh/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/rootdevansh/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3074-apple-redistribution-into-boxes](https://github.com/rootdevansh/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2405-optimal-partition-of-string](https://github.com/rootdevansh/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rootdevansh/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3074-apple-redistribution-into-boxes](https://github.com/rootdevansh/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Bracket Sequences
 |  |
 | ------- |
