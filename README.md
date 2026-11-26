@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/rootdevansh/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/rootdevansh/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2578-split-with-minimum-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2974-minimum-number-game](https://github.com/rootdevansh/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rootdevansh/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/rootdevansh/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rootdevansh/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/rootdevansh/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2578-split-with-minimum-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rootdevansh/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2405-optimal-partition-of-string](https://github.com/rootdevansh/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
+| [2578-split-with-minimum-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rootdevansh/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rootdevansh/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Bracket Sequences
