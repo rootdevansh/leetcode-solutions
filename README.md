@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rootdevansh/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2974-minimum-number-game](https://github.com/rootdevansh/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rootdevansh/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3745-maximize-expression-of-three-elements](https://github.com/rootdevansh/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2974-minimum-number-game](https://github.com/rootdevansh/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rootdevansh/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3745-maximize-expression-of-three-elements](https://github.com/rootdevansh/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/rootdevansh/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rootdevansh/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rootdevansh/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3745-maximize-expression-of-three-elements](https://github.com/rootdevansh/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -414,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rootdevansh/leetcode-solutions/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/rootdevansh/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
